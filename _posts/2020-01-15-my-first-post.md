@@ -9,7 +9,7 @@ featured: true
 categories:
   - travel
   - life
-featured_image: https://source.unsplash.com/random?sig=7
+featured_image: https://source.unsplash.com/0AidOIzFAGc
 seo:
   title:
   description:

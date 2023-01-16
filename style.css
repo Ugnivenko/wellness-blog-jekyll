@@ -301,14 +301,14 @@ nav a:hover {
 .dropdown-content {
   position: absolute;
   top: 100%;
-  left: -1rem;
+  left: 0;
   padding: 0.5rem;
   display:none; 
   background-color: white;
   z-index: 2;
   text-align: left;
-  min-width: 10rem;
-  border: 1px solid mediumvioletred;
+  min-width: 7rem;
+  border: 1px solid #ea6f27;
 }
 
 .dropdown:hover .dropdown-content{ 
