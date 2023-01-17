@@ -228,8 +228,7 @@ a {
 }
 
 a:hover {
-  color: #ea6f27;}
-  /* var(--featured-text);  */
+  color: var(--featured-text); }
 
 p a {
     text-decoration: none;
@@ -249,7 +248,7 @@ p a:hover {
 }
 
 .button:hover {
-    color: var(--featured-text);
+    color: rgb(167, 74, 74);
 }
 
 .subtle-button {
@@ -273,7 +272,7 @@ nav a {
     text-transform: capitalize;
 }
 nav a:hover {
-  color: #ea6f27;} 
+  color: var(--featured-text);} 
   /* var(--featured-text); */
 
 
@@ -289,7 +288,7 @@ nav a:hover {
   position: relative; 
   display: inline-block;
   padding: 0.25rem 0.5rem;
-  border: 1px solid #ea6f27;
+  border: 1px solid #e7b442;
   z-index: 3;
 }
 
@@ -309,7 +308,7 @@ nav a:hover {
   z-index: 2;
   text-align: left;
   min-width: 7rem;
-  border: 1px solid #ea6f27;
+  border: 1px solid #e7b442;
 }
 
 .dropdown:hover .dropdown-content{ 
