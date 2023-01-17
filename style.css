@@ -322,7 +322,7 @@ nav a:hover {
 
 .hamburger-button {
     cursor: pointer;
-    padding: 0.5rem;
+    padding-top: 1.5rem;
     display: inline-block;
     font-weight: 200;
     font-size: 2.5rem;
@@ -358,9 +358,13 @@ nav a:hover {
     padding: 2%;
     display: block;
     font-weight: normal;
+    /* font-weight: bold; */
+    color: white;
+    font-size: 1.5rem;
   }
 
-
+  .mobile-menu a:first-child {padding-top: 10vh;}
+  .mobile-menu a:hover { color: rgb(167, 74, 74);}
 
 /* ------------ Contact Forms  ----------------------- */
 
