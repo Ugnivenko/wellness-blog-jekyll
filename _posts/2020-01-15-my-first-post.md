@@ -9,7 +9,7 @@ featured: true
 categories:
   - travel
   - life
-featured_image: https://source.unsplash.com/0AidOIzFAGc
+featured_image: /images/happy-girl.jpg
 seo:
   title:
   description:
